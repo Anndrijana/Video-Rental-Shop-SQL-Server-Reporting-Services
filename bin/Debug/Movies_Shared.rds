@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Movies_Shared">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=147.91.175.176;Initial Catalog=it77g2017</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>fdefb773-058c-4283-90b6-42f3c59ba972</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Movies Rental Store - SSRS", "Movies Rental Store - SSRS.rptproj", "{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.Debug|Default.ActiveCfg = Debug
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.Debug|Default.Build.0 = Debug
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.Debug|Default.Deploy.0 = Debug
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.DebugLocal|Default.Build.0 = DebugLocal
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.Release|Default.ActiveCfg = Release
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.Release|Default.Build.0 = Release
+		{3421DA3F-3D34-44FC-B2D5-25FAEA9CD6FB}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6DDCC91-0C0F-4D68-B870-DD3582532380}
+	EndGlobalSection
+EndGlobal
